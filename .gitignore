@@ -1,1 +1,10 @@
 node_modules/
+
+# Arquivos do sistema e do ambiente local
+desktop.ini
+.DS_Store
+
+# Configuracoes locais e logs
+.env
+.env.*
+*.log
