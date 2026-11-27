@@ -40,8 +40,8 @@ npm --version
 1. Clone o repositório e entre na pasta do projeto:
 
    ```bash
-   git clone https://github.com/thiagohhh/TREIANDO.git
-   cd TREIANDO
+   git clone https://github.com/thiagohhh/PROJETO-HASH.git
+   cd PROJETO-HASH
    ```
 
 2. Instale as dependências:
